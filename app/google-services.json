@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "173479928113",
+    "project_id": "icetflix-d54b3",
+    "storage_bucket": "icetflix-d54b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173479928113:android:e1851558911bef900e5010",
+        "android_client_info": {
+          "package_name": "com.example.icetflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173479928113-rflv90biqsgpe0oe4tmacl8at914428i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.icetflix",
+            "certificate_hash": "56943de0e04013af76a279d3c8cff061954dd8e5"
+          }
+        },
+        {
+          "client_id": "173479928113-iltpo7te65s4oeits5rpkht7nc4gqn6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-dFag7AdBtyFLi8bZLkiNz70LN023iFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173479928113-iltpo7te65s4oeits5rpkht7nc4gqn6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

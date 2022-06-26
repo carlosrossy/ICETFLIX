@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ICETFLIX</string>
+    <string name="n_o_tem_uma_conta_registre_se">Não tem uma conta? Registre-se</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Senha">Senha</string>
+    <string name="email">Email</string>
+    <string name="recuperar_a_senha">Recuperar a senha?</string>
 </resources>

@@ -5,4 +5,7 @@
     <string name="Senha">Senha</string>
     <string name="email">Email</string>
     <string name="recuperar_a_senha">Recuperar a senha?</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="j_tem_uma_conta_conecte_se">Já tem uma conta? Conecte-se</string>
+    <string name="repita_a_senha">Repita a senha</string>
 </resources>
